@@ -14,7 +14,8 @@ You are required to help the manager to predict the right group of the new custo
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![image](https://github.com/user-attachments/assets/99e78329-c019-4490-b9cc-36f960400891)
+
 
 ## DESIGN STEPS
 
@@ -95,16 +96,20 @@ def train_model(model,train_loader,criterion,optimizer,epochs):
 
 ### Confusion Matrix
 
-Include confusion matrix here
+![image](https://github.com/user-attachments/assets/cb160880-964c-4145-b71e-f316c4e91daa)
+
 
 ### Classification Report
 
-Include Classification Report here
+![image](https://github.com/user-attachments/assets/eac93377-17fa-47b4-aa04-f598be0a9e44)
+
+
 
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+![image](https://github.com/user-attachments/assets/44111f95-c8a6-4fec-bac1-98747c24e9f7)
+
 
 ## RESULT
-Include your result here
+Thus a neural network classification model for the given dataset is executed successfully.
